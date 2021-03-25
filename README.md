@@ -12,8 +12,8 @@ Analyzing Weather Patterns with sqlite to find evidence supporting the opening o
 ## Purpose of Analysis
 
 ## Results
-![June Temperatures Statistics Table](june_temps.PNG) <br>
-![December Temperatures Statistics Table](dec_temps.PNG) <br>
+![June Temperatures Statistics Table](Resources/june_temps.PNG) <br>
+![December Temperatures Statistics Table](Resources/dec_temps.PNG) <br>
 
 ## Summary
 
